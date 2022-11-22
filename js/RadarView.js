@@ -1,5 +1,6 @@
 /*exported RadarView*/
 // UglifyJS: \uglifyjs -m reserved=['RadarView'] --toplevel Workspace/javascript/RadarView.js
+
 "use strict";
 
 if (!Math.toRadians)
